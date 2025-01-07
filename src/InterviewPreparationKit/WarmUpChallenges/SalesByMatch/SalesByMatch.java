@@ -1,4 +1,4 @@
-package InterviewPreparationKit.WarmUpChallenges.CountingValleys.SalesByMatch;
+package InterviewPreparationKit.WarmUpChallenges.SalesByMatch;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
